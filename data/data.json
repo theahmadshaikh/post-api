@@ -1,0 +1,20 @@
+[
+  {
+    "id": "20019",
+    "title": "dummy post",
+    "url": "http://example.com",
+    "description": "modern web development"
+  },
+  {
+    "id": "2019",
+    "title": "dummy post",
+    "url": "http://example.com",
+    "description": "modern web development"
+  },
+  {
+    "id": "2022",
+    "title": "nodejs",
+    "url": "http://example.com",
+    "description": "modern web development"
+  }
+]
